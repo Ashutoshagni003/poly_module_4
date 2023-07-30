@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ashutosh",
+    "protocol": "groth16",
+    "circuit": "Ashutosh/circuit.circom",
+    "input": "Ashutosh/input.json",
+    "wasm": "Ashutosh/out/circuit.wasm",
+    "zkey": "Ashutosh/out/Ashutosh.zkey",
+    "vkey": "Ashutosh/out/Ashutosh.vkey",
+    "r1cs": "Ashutosh/out/Ashutosh.r1cs",
+    "beacon": "0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f"
+  }
+]
