@@ -33,12 +33,10 @@ The circuit uses three custom templates for the basic logic gates:
 ## Usage
 
 1. Make sure you have Pragma Circom 2.0.0 installed on your system.
-2. 
-3. Replace `/*...*/` sections with your desired input and output signal names and connections.
 
-4. Compile the circuit using Pragma Circom to generate the circuit file.
+2. Compile the circuit using Pragma Circom to generate the circuit file.
 
-5. Depending on your use case, you can now use the generated circuit file in other projects or systems that support Pragma Circom circuits.
+3. Depending on your use case, you can now use the generated circuit file in other projects or systems that support Pragma Circom circuits.
 
 ## Contribution
 
